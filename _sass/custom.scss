@@ -1,0 +1,149 @@
+/*@import 'bootstrap/dist/css/bootstrap-sprockets';
+@import 'bootstrap/dist/css/bootstrap';*/
+
+$body-background-color: #aebdff;
+$body-second-background-color: #ffdaaa;
+$bar-background-color: #646faa;
+$bar-second-background-color: #a58b69;
+$element-background-color: #474e79;
+$element-second-background-color: #977c49;
+
+$body-text-color: #0c0c13;
+$title-text-color: #2f2844;
+
+body{
+    height: 100%;
+
+    background-color: $body-background-color;
+    background-image: url(asset-path("BattleSpriteBacking.png"));
+    background: linear-gradient(80deg, $body-background-color, $body-second-background-color);
+    background-attachment: fixed;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $title-text-color;
+}
+
+.navbar, .card-header {
+
+  background-color: $bar-background-color !important;
+  background: linear-gradient(280deg, $bar-background-color, $bar-second-background-color);
+    
+
+}
+
+.nav-link {
+
+    color: $body-text-color !important;
+
+}
+
+.card {
+  width: 80% !important;
+  background-color: $element-background-color;
+  background: linear-gradient(170deg, $element-background-color, $element-second-background-color);
+  background-attachment: fixed;
+  /*margin-bottom: 0.6em;*/
+  
+}
+
+
+
+#logo {
+    float: left;
+    font-size: 1.7em;
+    color: $title-text-color;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+#pageContent {
+    flex: 1 0 auto;
+    /*background-color: lightgrey;*/
+    color: $body-text-color;
+}
+
+#sticky-footer {
+    flex-shrink: none;
+    background-color: $bar-background-color !important;
+}
+
+#homeContainer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    height: 450px;
+
+    background-color: $element-background-color !important;
+    background-image: asset-url("BattleSpriteBacking.png");
+
+    color: $body-text-color !important;
+}
+
+.jumbotron {
+    background-color: $body-text-color !important;
+    background-image: asset-url("BattleSpriteBacking.png");
+    background-size: cover;
+    height: 450px;
+}
+
+/*Pagination Style*/
+.digg_pagination {
+    background: $body-text-color;
+    cursor: default;
+    /* self-clearing method: */ }
+
+    .digg_pagination a, .digg_pagination span, .digg_pagination em {
+        padding: 0.2em 0.5em;
+        display: block;
+        float: left;
+        margin-right: 1px; 
+        border-radius: 4px;
+    }
+
+    .digg_pagination .disabled {
+      color: #999999;
+      border: 1px solid #dddddd; }
+
+    .digg_pagination .current {
+      font-style: normal;
+      font-weight: bold;
+      background: $element-background-color;
+      color: $body-text-color;
+      border: 1px solid $element-background-color; }
+
+    .digg_pagination a {
+      text-decoration: none;
+      color: #105cb6;
+      border: 1px solid #9aafe5; }
+
+      .digg_pagination a:hover, .digg_pagination a:focus {
+        color: #f0f0ff;
+        border-color: #f0f0ff; }
+
+    .digg_pagination .page_info {
+      background: #2e6ab1;
+      color: #f0f0ff;
+      padding: 0.4em 0.6em;
+      width: 22em;
+      margin-bottom: 0.3em;
+      text-align: center; }
+
+      .digg_pagination .page_info b {
+        color: #000033;
+        background: #6aa6ed;
+        padding: 0.1em 0.25em; }
+
+    .digg_pagination:after {
+      content: ".";
+      display: block;
+      height: 0;
+      clear: both;
+      visibility: hidden; }
+
+    * html .digg_pagination {
+      height: 1%; }
+
+    *:first-child + html .digg_pagination {
+      overflow: hidden; }
