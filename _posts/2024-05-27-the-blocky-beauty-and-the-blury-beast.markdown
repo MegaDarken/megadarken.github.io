@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Blocky Beauty and the Blurry Beast"
-date:   2024-05-20 20:00:00 +0100
+date:   2024-05-27 20:00:00 +0100
 categories: programming graphics
 ---
 When it comes to texture filtering, forgoing the mipmapping and anisotroping filtering techniques for now and just focusing on sampling preferances, there is 2 main options: Bilinear and Nearest Neighbour.
@@ -14,3 +14,4 @@ Nearest Neighbour was used in the PS1 and Software rendered PC games of the 90s 
 
 Now texture size, anti-aliasing, and postprocessing have gotten to the point that the differences between the choices are minimised, but they do still exist. Nowerdays technical limitation are occationally the reason but mainly when you are noticing the texture filtering, expecially when it is Nearest Neighbour, that usually means it was an artistic choice.
 
+The cultural aspect that I find interesting is that in discustions about these 2, and therefore in discussions by people with familiarity with texture filtering, Nearest Neighbour seems to be significantly more popular and liked. However, when talking to those less familiar with them, people tend to have quite a negative reaction to ~
