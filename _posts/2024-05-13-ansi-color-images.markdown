@@ -2,7 +2,9 @@
 layout: post
 title:  "ANSI color images"
 date:   2024-05-13 20:00:00 +0100
-categories: programming
+categories:
+programming
+graphics
 ---
 An idea that has been rattling around in my head is making the most out of the colors that a console output can display.
 
