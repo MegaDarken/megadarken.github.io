@@ -2,7 +2,7 @@
 layout: post
 title:  "The Blocky Beauty and the Blurry Beast"
 date:   2024-05-27 20:00:00 +0100
-categories: programming graphics
+categories: graphics
 ---
 When it comes to texture filtering, forgoing the mipmapping and anisotropic filtering techniques for now and just focusing on sampling preferences, there has historically, broadly, been 2 main options: Bilinear and Nearest Neighbour.
 
