@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Normal maps and TBN"
-date:   2024-05-10 20:00:00 +0100
+date:   2024-06-10 20:00:00 +0100
 categories: graphics
 ---
 When rendering with any consideration for the directions surfaces are facing, such as almost any time that lighting is involved, having or calculating a polygon's normal vector becomes effectively nessercery.
@@ -12,7 +12,7 @@ For a quick overview; a surface normal is effectively a vector that points direc
 
 Above: a diagram of a triangle in 3D space, with its surface normal represented by an arrow.
 
-~
+While the normal can exist for any point on a surface; when stored they are usually recorded per vertex, per face, this usually consistant across the face but can differ if the appearance of a curve is desired when interpolating between them.
 
 ![Normal Teapot](/assets/images/Screenshot%20from%202023-01-23 21-32-10.png)
 
@@ -24,11 +24,11 @@ In terms of actual utility; A prolific use of normals would be in the context of
 
 ~
 
-Modifing the surface normal on a texture level requires of the further context of directions that the texture is going to be modifing the normal in. For the most part these direction vectors point along the surface and align with the orientation of the surface's texture or UV. As they exist as 2 directions, and function relitive to the normal, they would be the 'tangent' and 'bitangent'. Both the 'tangent' and 'bitangent' can be expected to be vectors 90 degrees from the normal vertor, and usually 90 degrees from each other unless the UV is skewed or distorted.
+Modifing the surface normal on a texture or fragment level requires of the further context of directions that the texture is going to be modifing the normal in. For the most part these direction vectors point along the surface and align with the orientation of the surface's texture or UV. As they exist as 2 directions, and function relitive to the normal, they would be the 'tangent' and 'bitangent'. Both the 'tangent' and 'bitangent' can be expected to be vectors 90 degrees from the normal vertor, and usually 90 degrees from each other unless the UV is skewed or distorted.
 
-~
+![TBN](/assets/images/TBN.png)
 
-If there is any form of generation or modification of model UVs then it will be nessercery to be able to calculate the correct 'tangent' and 'bitangent' from the geometry. ~
+If there is any form of generation or modification of model UVs then it will be nessercery to be able to calculate the correct 'tangent' and 'bitangent' from the geometry. I am sure it can be improved, but here is the proceedure for how I do this as of writing this:
 
 ```
 vertexDeltaA = vertexA - vertexC
@@ -43,5 +43,9 @@ tangent = reciprocal * (textureCoordinatesDeltaB.y * vertexDeltaA - textureCoord
 
 bitangent = reciprocal * (-textureCoordinatesDeltaB.x * vertexDeltaA + textureCoordinatesDeltaA.x * vertexDeltaB)
 ```
+
+Now that we have the 'tangent' and 'bitangent' avalible to us we now need to be able to define where and where they are being used. ~
+
+![Normal Map](/assets/images/Brick1_Normal.png)
 
 ~
