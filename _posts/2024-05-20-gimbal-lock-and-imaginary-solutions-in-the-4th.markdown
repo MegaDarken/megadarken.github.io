@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gimbal, Lock and imaginary solutions in the 4th dimention"
+title:  "Gimbal, Lock and imaginary solutions in the 4th dimension"
 date:   2024-05-20 20:00:00 +0100
 categories: mathematics
 ---
