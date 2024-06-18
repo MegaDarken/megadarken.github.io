@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A joke about a joke about 'Who's on first?'"
-date:   2024-09-10 20:00:00 +0100
+date:   2024-06-17 20:00:00 +0100
 categories: writing
 ---
 > I am now going to tell a joke riffing on Abott and Costello's 'Who's on first?'
