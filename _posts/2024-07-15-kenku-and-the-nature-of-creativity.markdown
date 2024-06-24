@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kenku and the nature of creativity"
-date:   2024-06-24 20:00:00 +0100
+date:   2024-07-15 20:00:00 +0100
 categories: writing
 ---
 Kenku are a crow-like humanoid from the Dungeons and Dragons tabletop roleplaying game, they are essentially able mimic sounds and writing flawlessly but are divinely cursed to be incapable of creativity or originality, with anything they attempt being doomed to be derivitive.
@@ -15,3 +15,5 @@ If instead the curse is acting further upon the Kenku then to what degree are th
 It is possible that the broad vague definition is purposefully there, allowing for flexibility in the roleplaying. At the same time, that could be fairly generous, it could just be a lucky bonus of an interesting flaw.
 
 I have seen Kenku performed with a primary focus on the vocal aspect, with the character only being able to say what has already been said in the sessions that have occured. While this does not explore the philisphoical aspects of the concept, in terms of practicality this does seem to be the way to go. ~
+
+I~~
