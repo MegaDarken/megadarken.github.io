@@ -4,9 +4,13 @@ title:  "Christmas in July"
 date:   2024-07-25 20:00:00 +0100
 categories: otherwise
 ---
-As a start it may be worth touching on the musical genre of [Plunderphonics]( https://en.wikipedia.org/wiki/Plunderphonics ), ~
+In the last few years I can at least say that I have noticed an increase in the presence of the psudo satrical holiday of 'Christmas in July', primerily focused on spreading "Chrismas spirit" and held on the 25th of July, the southern hemisphere seasonal equivilent of Christmas day. I have to say this it is a brave goal considering, speaking from experience, current and former retail workers can enter a shining like fugue state on contact with Mariah Carey's discography.
 
-As video handling on the internet started to become slightly viable and video editing software got good and avalible enough for formerly professional software to start being used unprofessionally. ~ 
+While 'Christmas in July' has been something that I have been aware of for a long time that awareness has primerally been in relation to an instance of an advert made for it and the impact it has had.
+
+As a start it may be worth touching on the musical genre of [Plunderphonics]( https://en.wikipedia.org/wiki/Plunderphonics ), the name comes from the word 'plunder' in reference to the audio piracy that the genre ostensibly relies upon. Sampling is used heavily, but while sampling was nothing new being already present within many genres in the 1980s, Plunderphonics often has tracks that are composed exclusively of samples. Many use and view the genre as a form of protest against copyright laws as they exist, but I think they really can have a gestalt quality, something more has been created from an existing whole. Even if it does not trancend into a form of art you could think of it as a sort of audio collage, and in that form it still has a creative utility that I think that it layed part of the foundation of modern mashup culture, even if indirectly. In its pure form this kind of music still has a presence under the names 'Hauntology' with the likes of the Caretaker, and 'Vaporwave'.
+
+As video handling on the internet started to become slightly viable and video editing software got good and avalible enough for formerly professional software to start being used unprofessionally. Early on ~, it reminds me of something I would do in Windows Movie Maker, I suspect because the production process for many likely operated under a similar set of sensibilites and limitions as my own, namely being a dumb kid. 
 
 ![~]()
 
@@ -14,7 +18,7 @@ I would say for the most part that they started to die out along with the MLG pa
 
 The skill aspect is commonly where I personally tend to gravitate towards. I like 'No BGM' a.k.a. no background music instances, where the creator does not have the backing track masking imperfections or missing elements, everything has to have been recreated, and functionally accurate.
 
-the sample focused musical cover aspect of the comunity in some parts evolved into the 'Mashup' genre, the YTP lineage is aparent in the editing of how mashups are presented visually~
+the sample focused musical cover aspect of the comunity in some parts evolved into the 'Mashup' genre, the YTP lineage is aparent in the editing of how mashups are presented visually ~.
 
 In the winter of 2009 the now defunct electronics company 'hhgregg' released a fairly standard advert for the festive season, complete with a carol which's lyrics have been replaced with a list of things you can buy.
 
@@ -22,23 +26,23 @@ In the winter of 2009 the now defunct electronics company 'hhgregg' released a f
     <iframe src="https://archive.org/embed/hhgregg-christmas-sale-2009" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 </div>
 
-In the following summer of 2010 that was actually a repurposing of their previous Christmas ~. The furthest point away from Christmas in a year is uncommonly acknowledged but does exist in the Southern Hemisphere as an ernist winter festivity, it is unclear which direction 'hhgregg' was aiming, but the contextual obtuseness did seem to capture peoples attention.
+In the following summer of 2010 this ad was repurposed and reedited. The furthest point away from Christmas in a year may have been chosen for the perceived abserdism or this could have been an acknowledgement of the Southern Hemisphere ernist winter festivity, it is unclear which direction 'hhgregg' was aiming, but the contextual obtuseness did seem to capture peoples attention.
 
 <div class="video-container">
     <iframe src="http://www.youtube.com/embed/QJzt8L_i7_U" width="640" height="480" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
-The already musical but somewhat amaturish, or possibly even "cringe", nature of it meant that the 'hhgregg' commercial was prime for a auditory lampooning, even if needed to wait for the right type of eye to recognise it. A mashup/remix with "Doin' it Right" by Daft Punk and featuring ~ called 'doin' by HydroDalek was uploaded to YouTube 2015 March 27th.
+The already musical but somewhat amaturish, or possibly even "cringe", nature of it meant that the 'hhgregg' commercial was prime for a auditory lampooning, even if needed to wait for the right type of eye to recognise it. A mashup/remix with "Doin' it Right" by Daft Punk and featuring Panda Bear called 'doin' by HydroDalek was uploaded to YouTube 2015 March 27th.
 
 <div class="video-container">
     <iframe src="http://www.youtube.com/embed/iYGTbrYi914" width="853" height="480" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
-The genre certainly had some development in this direction at this time, but I think that in a post SiIvagunner internet it can be easy to overlook that this had notable reach and impact while also having some semblance of ~. Prior hits were not only were inevitably very rough in a technical sense but also were often focused on crass or random humour, not straying too far from their YTP roots.
+The genre certainly had some development in this direction at this time, but I think that in a post SiIvagunner internet it can be easy to overlook that this had notable reach and impact while also having some semblance of being a very listenable work in its own right. Prior hits were not only were inevitably very rough in a technical sense but also were often focused on crass or random humour, not straying too far from their YTP roots.
 
-This would later get expanded upon in 'redoin' by JerryTerry, uploaded 2017 August 10th. Here we have a ground up rebuild of the concept~ as well as the addition of many split second appearances of Joey from 'Friends'. ~
+This would later get expanded upon in 'redoin' by JerryTerry, uploaded 2017 August 10th. Here we have a rebuild of the concept, in some sense a polish of an already worthwhile piece, but in another it is also an expancion of tastes of the authors into a collaborative work. The visuals may be the most obvious point of development, ~, as well as the addition of many split second appearances of Joey from 'Friends'. ~
 
 ![redoin]()
 <div class="video-container">
@@ -46,12 +50,14 @@ This would later get expanded upon in 'redoin' by JerryTerry, uploaded 2017 Augu
     </iframe>
 </div>
 
-~. In the added graphics; the pegging of the price being moved 2 digits to the left without condradicing they are saying, a ~ for $2.99 is neither subtle nor lampshaded, it stands as a pedantic interpretation of what is said, in some sense this alone is the bloodstained lifeforce of a chiptune nerd's teenage punk mood. ~
+In the added graphics; the pegging of the price being moved 2 digits to the left without condradicing they are saying, I like the level that it is going for, for $2.99 is neither subtle nor lampshaded, it stands as a pedantic interpretation of what is said, this alone is the bloodstained lifeforce of a chiptune nerd's teenage punk mood.
 
-I have found that it is never exactly clear why these got the traction that ~ but their relitive quality and novelty doesn't seem to have hurt. ~
+I have found that it is never exactly clear why these got the traction that others did not, but their relitive quality and novelty doesn't seem to have hurt.
 
-These are far from the be all and end all of the culture, but they feel almost architypal. With the company going under and the accociation with the new context the mascot 'HH' ~ used as a character by the likes of SiIvagunner and their cohorts, where they are equal parts creative catalyst and subject of humour.
+These are far from the be all and end all of the culture, but they feel almost architypal, a referance point for the masses rather than ~.
+
+With the company going under and the accociation with the new context the mascot 'HH' has ceised to exist as a corporate asset, rather ~ used as a character by the likes of SiIvagunner and their cohorts, where they are equal parts creative catalyst and subject of humour.
 
 ~
 
-And to the person for whom 'HH' gets their motor running; shine on you crazy diamond.
+Addendum; to the person for whom 'HH' gets their motor running; shine on you crazy diamond.
