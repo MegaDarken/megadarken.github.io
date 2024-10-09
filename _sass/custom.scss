@@ -147,3 +147,21 @@ h1, h2, h3, h4, h5, h6 {
 
     *:first-child + html .digg_pagination {
       overflow: hidden; }
+
+.wrap-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.wrap-column {
+  width: 48%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 800px) {
+  .wrap-column {
+      width: 100%;
+  }
+}
