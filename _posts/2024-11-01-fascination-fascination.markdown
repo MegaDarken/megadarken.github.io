@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fascination fascination"
-date:   2024-08-12 20:00:00 +0100
+date:   2024-11-01 20:00:00 +0100
 categories: writing
 ---
 I have long delighted in other people's happiness, but, like with many other aspects of my life, a major draw of my focus is the interesting uniqueness of someone's source of happyness.
