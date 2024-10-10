@@ -7,7 +7,7 @@ categories: mathematics
 > "TAKE THE UNIVERSE AND GRIND IT DOWN TO THE FINEST POWDER AND SIEVE IT THROUGH THE FINEST SIEVE AND THEN SHOW ME ONE ATOM OF JUSTICE, ONE MOLECULE OF MERCY. AND YET—Death waved a hand. AND YET YOU ACT AS IF THERE IS SOME IDEAL ORDER IN THE WORLD, AS IF THERE IS SOME...SOME RIGHTNESS IN THE UNIVERSE BY WHICH IT MAY BE JUDGED."  
 - Death in **Hogfather** (1996) by Terry Pratchett
 
-It is not lost on me that the manifestation of death is the one to say this. Life and death are difficult to define in the easiest and most contrived of circumstances, in the real world with real complexity a complete definition may actually be impossible.
+It is not lost on me that the manifestation of death is the one to say this. Life and death are difficult to define in the easiest and most contrived of circumstances, it continues to be elusive in both phylosophy and information theory. In the real world with real complexity a complete definition may actually be impossible.
 
 Within René Descartes's 'Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences' (1637) skepticim is taken to the ultimate end that the only thing you can be certain of is your own consciousness' existance, and that's only existance of it, nothing about its nature can be confirmed. That is the kind of extreme you can go to if you are willing to.
 
