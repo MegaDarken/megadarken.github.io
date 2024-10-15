@@ -14,7 +14,7 @@ Since then I have:
 
 With that, and the modest scope, I felt that it was now in a reasonably releasable state:
 
-https://github.com/MegaDarken/Crossword-standalone/releases/tag/v1.0.0
+[https://github.com/MegaDarken/Crossword-standalone/releases/tag/v1.0.0](https://github.com/MegaDarken/Crossword-standalone/releases/tag/v1.0.0)
 
 Now, you can just run the executable in a directory with a `wordQuestions.txt` file for it to pull the list from, and you will be prompted to enter all of the information the program needs. However you also have the option of providing command line arguments for these values, if one is given then that detail is not prompted.
 
@@ -26,3 +26,5 @@ Now, you can just run the executable in a directory with a `wordQuestions.txt` f
 My only real desire around this is that if you do make use of this is that you let me know and show it being useful, thanks.
 
 I am considering further options and functionality, such as randomization of word selection, currently the work attempt order is longest first as this fills the most area, but is as a result consistent every time for any given start condition. What I am considering would take a seed value that could be used in the random shuffling of the word list. Another facet could be to give the option to change the output stream used so that you could write it to a file, or format an output as a CSV or similar.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MegaDarken&repo=Crossword-standalone)](https://github.com/MegaDarken/Crossword-standalone)
