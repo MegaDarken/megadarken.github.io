@@ -23,4 +23,6 @@ Now, you can just run the executable in a directory with a `wordQuestions.txt` f
 - "-c" or "--count" The upper bound on words placed, must be an integer.s
 - "-f" or "--first" is the central character the crossword will start with and build off of, must be a character.
 
+My only real desire around this is that if you do make use of this is that you let me know and show it being useful, thanks.
+
 I am considering further options and functionality, such as randomization of word selection, currently the work attempt order is longest first as this fills the most area, but is as a result consistent every time for any given start condition. What I am considering would take a seed value that could be used in the random shuffling of the word list. Another facet could be to give the option to change the output stream used so that you could write it to a file, or format an output as a CSV or similar.
