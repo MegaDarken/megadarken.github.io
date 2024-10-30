@@ -44,7 +44,7 @@ This means at least on the scale of the data type used, repeated values should b
 
 This method does have the qualities of being very simple, fast and portable, consisting of only array accesses, increments and bit-shifts. It also trends towards being a more human pleasing kind of pseudo-randomness. I know that likely sounds a bit ephemeral, but it is very possible for someone to be explicitly asking for more randomness while implicitly asking for less.
 
-![Tim Cain talking about randomness]()
+![Tim Cain talking about randomness](https://youtu.be/DqL9R5PqE20)
 
 The human perception of true randomness is not particularly accurate, this is what the success of casinos is based on. Any value should be equally likely, independent of the values before and after it, but it is common for many to instinctively think that a value that has already occurred is less likely, proportional to its recency.
 
@@ -56,6 +56,10 @@ I plan to further investigate the qualities of what I have made in future, check
 
 Now, really this post is about the crossword program. Previously, in the first release, with any specific set of starting parameters the resulting crossword would always be the same, a 10 by 10 starting with the letter 'r' and the same word list, for example, can be run as many times as you like with no change at all. Now there is the option to add randomness into the process. By default the list of words is sorted into length order so that the longest words are tried first, this means more options are left open later on, ensuring more space is able to be filled. Really a rework to try and focus on longer words, even while randomized, may be worthwhile.
 
-Beyond that there has also been a further version that adds ~
+Beyond that there has also been a further version that adds the ability to append the output to a file of the user's choice, through an arg.
+
+The releases can be found here:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MegaDarken&repo=Crossword-standalone)](https://github.com/MegaDarken/Crossword-standalone)
 
 Anyway, I hope you have a spooky spooker spookums!
