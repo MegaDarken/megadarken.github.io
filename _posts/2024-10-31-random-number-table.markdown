@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Random Number Table"
-date:   2024-10-31 20:00:00 +000
+date:   2024-10-31 18:00:00 +000
 categories: mathematics
 ---
 Admittedly an unusual approach using a table to produce random numbers like this, rather than a more traditional pseudorandom number generator, is a somewhat self indulgent experiment. This started as an examination and expansion of the pseudorandom number table used by Doom (1993). 
@@ -58,7 +58,9 @@ Now, really this post is about the crossword program. Previously, in the first r
 
 Beyond that there has also been a further version that adds the ability to append the output to a file of the user's choice, through an arg.
 
-The releases can be found here:
+The releases can be found here, compiled for Windows, MacOS, and Ubuntu:
+
+![v1.0.2](https://github.com/MegaDarken/Crossword-standalone/releases/tag/v1.0.2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MegaDarken&repo=Crossword-standalone)](https://github.com/MegaDarken/Crossword-standalone)
 
