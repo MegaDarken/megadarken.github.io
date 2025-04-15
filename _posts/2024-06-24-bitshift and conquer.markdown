@@ -45,7 +45,7 @@ y *= reciprocal;
 z *= reciprocal;
 ```
 
-If an operation is known to be dividing or multiplying power of 2 and you are dealing with an integer then this can be improved further, by making use of a bitshift operation. A leftward bit shift, usually denoted by the operator `<<`, has the same effect as multiplying by $$ 2^n $$ , while a rightward bit shift, usually denoted by the operator `>>`,is the equivalent for dividing by $$ 2^n $$. 
+If an operation is known to be dividing or multiplying power of 2 and you are dealing with an unsigned integer then this can be improved further, by making use of a bitshift operation. A leftward bit shift, usually denoted by the operator `<<`, has the same effect as multiplying by $$ 2^n $$ , while a rightward bit shift, usually denoted by the operator `>>`,is the equivalent for dividing by $$ 2^n $$. 
 
 $$ n / 2 = n * 0.5 = n >> 1 $$
 
