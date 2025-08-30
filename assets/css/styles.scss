@@ -1,4 +1,7 @@
 ---
 ---
-@import "{{ site.theme }}";
+
+@import "color";
+@import "initialize";
+// @import "{{ site.theme }}";
 @import 'main';
