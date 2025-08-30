@@ -14,8 +14,8 @@ $title-text-color: #2f2844;
 body{
     height: 100%;
 
-    background-color: $body-background-color;
-    background-image: url(asset-path("BattleSpriteBacking.png"));
+    // background-color: $body-background-color;
+    // background-image: url(asset-path("BattleSpriteBacking.png"));
     background: linear-gradient(80deg, $body-background-color, $body-second-background-color);
     background-attachment: fixed;
 }
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*Pagination Style*/
 .digg_pagination {
-    background: $body-text-color;
+    // background: $body-text-color;
     cursor: default;
     /* self-clearing method: */ }
 
@@ -170,3 +170,11 @@ h1, h2, h3, h4, h5, h6 {
 // code {
 //   line-height: 1;
 // }
+
+
+.post {
+  border: 1px solid $border-color-01;
+  padding: 0.2em 0.5em;
+  margin-bottom: 0.3em;
+  background-color: $background-color;
+}
