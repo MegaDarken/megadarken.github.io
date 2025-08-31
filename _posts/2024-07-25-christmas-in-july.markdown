@@ -20,8 +20,8 @@ I would say for the most part that the non musical end of YTP does still exist a
 
 What I would consider to be one of the first substantially known and quality 'YTPMV' would be 'Big Beat Mario' by Triple_sSs uploaded to YouTube 2009 December 8th.
 
-<div class="video-container">
-    <iframe src="http://www.youtube.com/embed/O36f1p8QSaw" width="640" height="480" allowfullscreen="" frameborder="0">
+<div class="video-container ratio4by3">
+    <iframe class="responsive-iframe" src="http://www.youtube.com/embed/O36f1p8QSaw" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
@@ -31,21 +31,22 @@ The skill aspect is commonly where I personally tend to gravitate towards. I lik
 
 In the winter of 2009 the now defunct electronics company 'hhgregg' released a fairly standard advert for the festive season, complete with a carol which's lyrics have been replaced with a list of things you can buy.
 
-<div class="video-container">
-    <iframe src="https://archive.org/embed/hhgregg-christmas-sale-2009" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<div class="video-container ratio4by3">
+    <iframe class="responsive-iframe" src="https://archive.org/embed/hhgregg-christmas-sale-2009" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen>
+    </iframe>
 </div>
 
 In the following summer of 2010 this ad was repurposed and reedited. The furthest point away from Christmas in a year may have been chosen for the perceived absurdism or this could have been an acknowledgement of the Southern Hemisphere earnest  winter festivity, it is unclear which direction 'hhgregg' was aiming, but the contextual obtuseness did seem to capture people's attention.
 
-<div class="video-container">
-    <iframe src="http://www.youtube.com/embed/QJzt8L_i7_U" width="640" height="480" allowfullscreen="" frameborder="0">
+<div class="video-container ratio4by3">
+    <iframe class="responsive-iframe" src="http://www.youtube.com/embed/QJzt8L_i7_U" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
 The already musical but somewhat amateurish, or possibly even "cringe", nature of it meant that the 'hhgregg' commercial was prime for an auditory lampooning, even if needed to wait for the right type of eye to recognise it. A mashup/remix with "Doin' it Right" by Daft Punk and featuring Panda Bear called 'doin' by HydroDalek was uploaded to YouTube 2015 March 27th.
 
-<div class="video-container">
-    <iframe src="http://www.youtube.com/embed/iYGTbrYi914" width="853" height="480" allowfullscreen="" frameborder="0">
+<div class="video-container ratio16by9">
+    <iframe class="responsive-iframe" src="http://www.youtube.com/embed/iYGTbrYi914" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
@@ -53,9 +54,8 @@ The genre certainly had some development in this direction at this time, but I t
 
 This would later be expanded upon in 'redoin' by JerryTerry, uploaded 2017 August 10th. Here we have a rebuild of the concept, in some sense a polish of an already worthwhile piece, but in another it is also an expansion of the tastes of the authors into a collaborative work. The visuals may be the most obvious point of development, themed typography, as well as the addition of many split second appearances of Joey from 'Friends' are the least I can mention.
 
-![redoin]()
-<div class="video-container">
-    <iframe src="http://www.youtube.com/embed/rjRV0G6qWgw" width="853" height="480" allowfullscreen="" frameborder="0">
+<div class="video-container ratio16by9">
+    <iframe  class="responsive-iframe" src="http://www.youtube.com/embed/rjRV0G6qWgw" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
