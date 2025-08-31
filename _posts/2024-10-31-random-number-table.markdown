@@ -65,8 +65,6 @@ Beyond that there has also been a further version that adds the ability to appen
 
 The releases can be found here, compiled for Windows, MacOS, and Ubuntu:
 
-![v1.0.2](https://github.com/MegaDarken/Crossword-standalone/releases/tag/v1.0.2)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MegaDarken&repo=Crossword-standalone)](https://github.com/MegaDarken/Crossword-standalone)
 
 Anyway, I hope you have a spooky spooker spookums!
