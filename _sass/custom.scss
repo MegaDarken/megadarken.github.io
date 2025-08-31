@@ -92,7 +92,9 @@ h1, h2, h3, h4, h5, h6 {
 .digg_pagination {
     // background: $body-text-color;
     cursor: default;
-    /* self-clearing method: */ }
+    /* self-clearing method: */ 
+    padding-bottom: 1.0em;
+  }
 
     .digg_pagination a, .digg_pagination span, .digg_pagination em {
         padding: 0.2em 0.5em;
@@ -137,10 +139,11 @@ h1, h2, h3, h4, h5, h6 {
 
     .digg_pagination:after {
       content: ".";
-      display: block;
+      // display: block;
       height: 0;
       clear: both;
-      visibility: hidden; }
+      visibility: hidden; 
+    }
 
     * html .digg_pagination {
       height: 1%; }
@@ -171,6 +174,15 @@ h1, h2, h3, h4, h5, h6 {
 //   line-height: 1;
 // }
 
+.left-sidebar {
+  width: 15%;
+  padding: 0.2em 0.5em;
+  float: left;
+  font-style: italic;
+  border: 1px solid $border-color-01;
+  margin-right: 0.3em;
+  background-color: $background-color;
+}
 
 .post {
   border: 1px solid $border-color-01;
