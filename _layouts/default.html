@@ -10,7 +10,11 @@
     
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        {{ content }}
+        {% include sidebar.html %}
+
+        <div style="margin-left: 20%">
+          {{ content }}
+        </div>
       </div>
     </main>
 
