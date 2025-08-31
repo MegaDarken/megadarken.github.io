@@ -22,6 +22,7 @@ What I would consider to be one of the first substantially known and quality 'YT
 
 <div class="video-container ratio4by3">
     <iframe class="responsive-iframe" src="http://www.youtube.com/embed/O36f1p8QSaw" allowfullscreen="" frameborder="0">
+    <a href="https://youtu.be/O36f1p8QSaw">YTPMV: Big Beat Mario</a>
     </iframe>
 </div>
 
@@ -33,6 +34,7 @@ In the winter of 2009 the now defunct electronics company 'hhgregg' released a f
 
 <div class="video-container ratio4by3">
     <iframe class="responsive-iframe" src="https://archive.org/embed/hhgregg-christmas-sale-2009" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen>
+    <a href="https://archive.org/details/hhgregg-christmas-sale-2009">hhgregg - Christmas Sale 2009</a>
     </iframe>
 </div>
 
@@ -40,6 +42,7 @@ In the following summer of 2010 this ad was repurposed and reedited. The furthes
 
 <div class="video-container ratio4by3">
     <iframe class="responsive-iframe" src="http://www.youtube.com/embed/QJzt8L_i7_U" allowfullscreen="" frameborder="0">
+    <a href="https://youtu.be/QJzt8L_i7_U">HH Gregg AD 2010 christmas in july</a>
     </iframe>
 </div>
 
@@ -47,6 +50,7 @@ The already musical but somewhat amateurish, or possibly even "cringe", nature o
 
 <div class="video-container ratio16by9">
     <iframe class="responsive-iframe" src="http://www.youtube.com/embed/iYGTbrYi914" allowfullscreen="" frameborder="0">
+    <a href="https://youtu.be/iYGTbrYi914">doin</a>
     </iframe>
 </div>
 
@@ -56,6 +60,7 @@ This would later be expanded upon in 'redoin' by JerryTerry, uploaded 2017 Augus
 
 <div class="video-container ratio16by9">
     <iframe  class="responsive-iframe" src="http://www.youtube.com/embed/rjRV0G6qWgw" allowfullscreen="" frameborder="0">
+    <a href="https://youtu.be/rjRV0G6qWgw">ReDoin</a>
     </iframe>
 </div>
 
