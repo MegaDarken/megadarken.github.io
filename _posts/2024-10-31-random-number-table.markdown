@@ -44,7 +44,12 @@ This means at least on the scale of the data type used, repeated values should b
 
 This method does have the qualities of being very simple, fast and portable, consisting of only array accesses, increments and bit-shifts. It also trends towards being a more human pleasing kind of pseudo-randomness. I know that likely sounds a bit ephemeral, but it is very possible for someone to be explicitly asking for more randomness while implicitly asking for less.
 
-![Tim Cain talking about randomness](https://youtu.be/DqL9R5PqE20)
+![Tim Cain talking about randomness:](https://youtu.be/DqL9R5PqE20)
+<div class="video-container ratio16by9">
+    <iframe class="responsive-iframe" src="http://www.youtube.com/embed/DqL9R5PqE20" allowfullscreen="" frameborder="0">
+    <a href="https://youtu.be/DqL9R5PqE20">Implementing Randomness</a>
+    </iframe>
+</div>
 
 The human perception of true randomness is not particularly accurate, this is what the success of casinos is based on. Any value should be equally likely, independent of the values before and after it, but it is common for many to instinctively think that a value that has already occurred is less likely, proportional to its recency.
 
