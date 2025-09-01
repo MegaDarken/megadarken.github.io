@@ -46,7 +46,7 @@ This method does have the qualities of being very simple, fast and portable, con
 
 ![Tim Cain talking about randomness:](https://youtu.be/DqL9R5PqE20)
 <div class="video-container ratio16by9">
-    <iframe class="responsive-iframe" src="http://www.youtube.com/embed/DqL9R5PqE20" allowfullscreen="" frameborder="0">
+    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/DqL9R5PqE20" allowfullscreen="" frameborder="0">
     <a href="https://youtu.be/DqL9R5PqE20">Implementing Randomness</a>
     </iframe>
 </div>
