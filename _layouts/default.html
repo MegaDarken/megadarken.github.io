@@ -9,11 +9,13 @@
     {% include header.html %}
     
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {% include sidebar.html %}
-
-        <div style="margin-left: 20%">
+      <div class="wrapper sidebared-container">
+        <div>
           {{ content }}
+        </div>
+
+        <div>
+          {% include sidebar.html %}
         </div>
       </div>
     </main>
