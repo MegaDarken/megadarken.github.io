@@ -175,12 +175,9 @@ h1, h2, h3, h4, h5, h6 {
 // }
 
 .left-sidebar {
-  width: 17%;
   padding: 0.2em 0.5em;
-  float: left;
   font-style: italic;
   border: 1px solid $border-color-01;
-  margin-right: 0.3em;
   background-color: $background-color;
 }
 
@@ -225,4 +222,21 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   width: 100%;
   height: 100%;
+}
+
+.sidebared-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
+  grid-gap: 0.2em;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+}
+
+.sidebared-container div {
+  padding: 0.2em;
+}
+
+.sidebared-container > div:first-child {
+  grid-column: span 4;
 }
