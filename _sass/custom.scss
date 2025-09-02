@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6 {
 
     .digg_pagination:after {
       content: ".";
-      // display: block;
+      display: block;
       height: 0;
       clear: both;
       visibility: hidden; 
