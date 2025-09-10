@@ -24,6 +24,11 @@ h1, h2, h3, h4, h5, h6 {
     color: $title-text-color;
 }
 
+table {
+    overflow-x: auto;
+    width: 100%;
+}
+
 .navbar, .card-header {
 
   background-color: $bar-background-color !important;
