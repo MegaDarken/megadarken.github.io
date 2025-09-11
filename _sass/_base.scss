@@ -163,6 +163,7 @@ blockquote {
 pre,
 code {
   font-family: $code-font-family;
+  color: $code-text-color;
   background-color: $code-background-color;
 
   @include media-query($on-palm) {

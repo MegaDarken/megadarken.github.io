@@ -1,22 +1,23 @@
 
-$brand-color: #646faa;
-$brand-color-light: #848faa;
+$brand-color: #6474cc;
+$brand-color-light: #ceedff;
 $brand-color-dimmed: #545faa;
-$brand-color-dark: #444faa;
+$brand-color-dark: #222755;
 
 $site-title-color: $brand-color-dark;
 
 $heading-color: #2f2844;
-$text-color: #0c0c13;//$lm-brand-color-dark
-$background-color: #ceedff;
-$code-background-color: #ffdaaa;
+$text-color: #0e0e24;//$lm-brand-color-dark
+$background-color: #aadaff;
+$code-text-color: $brand-color-light;
+$code-background-color: $text-color;
 
 $link-base-color: #1e69d8;
 $link-visited-color: #5e59a8;
 $link-hover-color: $text-color;
 
-$border-color-01: $brand-color-light;
-$border-color-02: $brand-color;
+$border-color-01: $brand-color;
+$border-color-02: $brand-color-light;
 $border-color-03: $brand-color-dark;
 
 $table-text-color: $heading-color;
