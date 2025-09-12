@@ -2,7 +2,7 @@
 @import 'bootstrap/dist/css/bootstrap';*/
 
 $body-background-color: #aebdff;
-$body-second-background-color: #ffdaaa;
+$body-second-background-color: #aadaff;
 $bar-background-color: #646faa;
 $bar-second-background-color: #a58b69;
 $element-background-color: #474e79;
@@ -14,10 +14,10 @@ $title-text-color: #2f2844;
 body{
     height: 100%;
 
-    // background-color: $body-background-color;
-    // background-image: url(asset-path("BattleSpriteBacking.png"));
+    // background-color: $background-color;
     background: linear-gradient(80deg, $body-background-color, $body-second-background-color);
     background-attachment: fixed;
+    background-repeat: repeat;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -188,9 +188,17 @@ table {
 
 .post {
   border: 1px solid $border-color-01;
-  padding: 0.2em 0.5em;
   margin-bottom: 0.3em;
   background-color: $background-color;
+}
+
+.post-header {
+  background-color: $brand-color-light;
+  width: 100%;
+}
+
+.post-content {
+  padding: 0.5em 0.5em;
 }
 
 .video-container {
