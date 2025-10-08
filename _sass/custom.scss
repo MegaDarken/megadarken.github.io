@@ -15,9 +15,14 @@ body{
     height: 100%;
 
     // background-color: $background-color;
-    background: linear-gradient(80deg, $body-background-color, $body-second-background-color);
+    background-color: #103;
+    background: linear-gradient(0deg, #103, #000);
+    background: url("/assets/images/starfieldia.png"), linear-gradient(0deg, #103, #000);
+
     background-attachment: fixed;
     background-repeat: repeat;
+
+    // image-rendering: pixelated;
 }
 
 h1, h2, h3, h4, h5, h6 {
