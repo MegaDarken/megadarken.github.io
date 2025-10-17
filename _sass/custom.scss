@@ -200,6 +200,15 @@ table {
 .post-header {
   background-color: $brand-color-light;
   width: 100%;
+  display: flex; justify-content: space-between;
+
+  .post-title {
+    padding: 8px;
+  }
+
+  .post-meta {
+    padding: 8px;
+  }
 }
 
 .post-content {
