@@ -254,3 +254,9 @@ table {
 .sidebared-container > div:first-child {
   grid-column: span 4;
 }
+
+.frame-bordered {
+  border: 27px solid transparent;
+  border-image: linear-gradient(rgb(148, 113, 17), rgb(255, 196, 0)) 27;
+  border-image: url("/assets/images/Frame512.jpg") 54 stretch;
+}
