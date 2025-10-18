@@ -2,7 +2,7 @@
 @import 'bootstrap/dist/css/bootstrap';*/
 
 $body-background-color: #aebdff;
-$body-second-background-color: #ffdaaa;
+$body-second-background-color: #aadaff;
 $bar-background-color: #646faa;
 $bar-second-background-color: #a58b69;
 $element-background-color: #474e79;
@@ -14,10 +14,15 @@ $title-text-color: #2f2844;
 body{
     height: 100%;
 
-    // background-color: $body-background-color;
-    // background-image: url(asset-path("BattleSpriteBacking.png"));
-    background: linear-gradient(80deg, $body-background-color, $body-second-background-color);
+    // background-color: $background-color;
+    background-color: #103;
+    background: linear-gradient(0deg, #103, #000);
+    background: url("/assets/images/starfieldia.png"), linear-gradient(0deg, #103, #000);
+
     background-attachment: fixed;
+    background-repeat: repeat;
+
+    // image-rendering: pixelated;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -188,9 +193,26 @@ table {
 
 .post {
   border: 1px solid $border-color-01;
-  padding: 0.2em 0.5em;
   margin-bottom: 0.3em;
   background-color: $background-color;
+}
+
+.post-header {
+  background-color: $brand-color-light;
+  width: 100%;
+  display: flex; justify-content: space-between;
+
+  .post-title {
+    padding: 8px;
+  }
+
+  .post-meta {
+    padding: 8px;
+  }
+}
+
+.post-content {
+  padding: 0.5em 0.5em;
 }
 
 .video-container {
@@ -240,4 +262,10 @@ table {
 
 .sidebared-container > div:first-child {
   grid-column: span 4;
+}
+
+.frame-bordered {
+  border: 27px solid transparent;
+  border-image: linear-gradient(rgb(148, 113, 17), rgb(255, 196, 0)) 27;
+  border-image: url("/assets/images/Frame512.jpg") 54 stretch;
 }
