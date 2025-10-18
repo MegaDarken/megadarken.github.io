@@ -34,6 +34,6 @@ gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Security related.
-gem "rexml", ">= 3.3.9"
+gem "rexml", ">= 3.4.2"
 gem "google-protobuf", ">= 4.27.5"
 gem "webrick", ">= 1.8.2"
