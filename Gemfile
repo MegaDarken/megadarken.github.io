@@ -37,3 +37,9 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "rexml", ">= 3.4.2"
 gem "google-protobuf", ">= 4.27.5"
 gem "webrick", ">= 1.8.2"
+gem "addressable", ">= 2.9.0"
+
+# After Ruby 4.0.0
+gem "logger", "~> 1.7"
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.3.0"
