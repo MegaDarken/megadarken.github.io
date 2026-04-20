@@ -50,6 +50,6 @@ Above: an example of a normal map.
 
 In a normal map each directional axis has a color channel, and converted to clip space (a range from -1 to 1) these can be multiplied by the 'tangent' and 'bitangent' respectively and applied to the normal vector to slightly change its direction.
 
-![Normal map example](/assets/images/normalExample.png)
+![Normal map example](/assets/images/normalExample.jpg)
 
 The outcome is a relatively low cost contours to improve the look of a texture or material.
