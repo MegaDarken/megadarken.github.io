@@ -1,7 +1,7 @@
   <aside class="sidebar">
-    <h3>Posts</h3>
+    <h3>More</h3>
     
-    {% assign posts = site.posts %}
+    {% assign posts = site[page.collection] %}
 
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
