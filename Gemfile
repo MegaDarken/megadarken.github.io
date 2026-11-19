@@ -37,7 +37,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "rexml", ">= 3.4.2"
 gem "google-protobuf", ">= 4.27.5"
 gem "webrick", ">= 1.8.2"
-gem "addressable", ">= 2.9.0"
+gem "addressable", ">= 2.9.2"
 gem "concurrent-ruby", ">= 1.3.7"
 
 # After Ruby 4.0.0
